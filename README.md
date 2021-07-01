@@ -12,12 +12,12 @@ My skills 💪
 - https://docs.google.com/spreadsheets/d/1G5_YkdiUDs649iOjNI_ZkXrReHVI-7yO1c2ha2YtrUw/edit?usp=sharing
 2. Application of test design techniques. Testing of boundary values/Equivalent partitioning/Pairwise testing.
 3. Chrome DevTools as a tool for error localization.
-4. Client-server architecture. The application of Postman. 
+4. Testing requirements:  
+- https://docs.google.com/document/d/1ozKCCbAU7MzDhZ2rzwL8ZiIiut0U6QKrNtsslhZDAWE/edit?usp=sharing
+- https://docs.google.com/document/d/1Tyw7TDbRr-Mhee9f7VXL__cZF7gkQSp2tNWfnVoNkxU/edit?usp=sharing  
 5. Adaptive layout of single-page sites. Understanding semantics and its impact on the site. 
 6. Compliance with the HTML/CSS code style.
-7. Testing requirements:  
-- https://docs.google.com/document/d/1ozKCCbAU7MzDhZ2rzwL8ZiIiut0U6QKrNtsslhZDAWE/edit?usp=sharing
-- https://docs.google.com/document/d/1Tyw7TDbRr-Mhee9f7VXL__cZF7gkQSp2tNWfnVoNkxU/edit?usp=sharing
+7. Client-server architecture. The application of Postman. 
 8. I compiled a table for calculating labor costs: https://docs.google.com/spreadsheets/d/1NBRrAbGb5UVRUQIhw6vYM4TXw2TnTDb_HaJAQYhVtcA/edit?usp=sharing
 9. Сreating queries when working with a MySQL database. Examples with solved problems: 
 - https://docs.google.com/spreadsheets/d/1ksRcUiU9dnThoKbXJdNuBdL9jrEInGbKoBbiYpxfpLQ/edit?usp=sharing
