@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 Front-End Development
 
-![html](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html&logoColor=white)]
+![html](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html&logoColor=#E34F26)
 
 
 Database
