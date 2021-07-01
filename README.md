@@ -22,8 +22,7 @@ ________________________________________________________________________________
 
 Front-End Development
 
-![html](https://img.shields.io/badge/html-#E34F26?style=for-the-badge&logo=html&logoColor=#E34F26)
-
+![html](https://img.shields.io/badge/GitHub-E34F26?style=for-the-badge&logo=GitHub&logoColor=white)
 
 Database
 
