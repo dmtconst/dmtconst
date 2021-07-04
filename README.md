@@ -1,9 +1,9 @@
 
-A little about me 😎
+### A little about me 😎
 
 I am junior testing engineer. I've finished online course Skillbox "Web Application Tester". Currently I am writing diplom.
 ____________________________________________________________________________________________________________________________________________________________________
-My skills 💪
+### My skills 💪
 1. Testing requirements:<br/>- [Example 1](https://docs.google.com/document/d/1ozKCCbAU7MzDhZ2rzwL8ZiIiut0U6QKrNtsslhZDAWE/edit?usp=sharing)<br/>- [Example 2](https://docs.google.com/document/d/1Tyw7TDbRr-Mhee9f7VXL__cZF7gkQSp2tNWfnVoNkxU/edit?usp=sharing) 
 2. Drawing up a table of labor costs:<br/>- [Example 1](https://docs.google.com/spreadsheets/d/1NBRrAbGb5UVRUQIhw6vYM4TXw2TnTDb_HaJAQYhVtcA/edit?usp=sharing)
 4. Application of test design techniques. Testing of boundary values/Equivalent partitioning/Pairwise testing.
