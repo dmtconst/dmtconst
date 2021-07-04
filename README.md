@@ -1,7 +1,8 @@
 
 ### A little about me 😎
 
-I am junior testing engineer. I've finished online course Skillbox "Web Application Tester". Currently I am writing diplom.
+I am junior testing engineer. I've finished online course Skillbox "Web Application Tester". Currently I am writing diplom. <br/>
+I have knowledge of SDLC / STLC. Software development methodologies. Testing Theory. Types, levels, methods. I also own a test design technique. "Boundary value testing" / "Equivalent partitioning" / "Pairwise testing". When testing pages, I use Chrome DevTools as an error localization tool. I use Postman for API testing
 ____________________________________________________________________________________________________________________________________________________________________
 ### My skills 💪
 1. Testing requirements:<br/>- [Example 1](https://docs.google.com/document/d/1ozKCCbAU7MzDhZ2rzwL8ZiIiut0U6QKrNtsslhZDAWE/edit?usp=sharing)<br/>- [Example 2](https://docs.google.com/document/d/1Tyw7TDbRr-Mhee9f7VXL__cZF7gkQSp2tNWfnVoNkxU/edit?usp=sharing) 
