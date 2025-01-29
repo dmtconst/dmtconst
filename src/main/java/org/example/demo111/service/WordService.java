@@ -16,7 +16,7 @@ public class WordService {
     @Autowired
     public WordService(WordsRepository wordsRepository) {
         this.wordsRepository = wordsRepository;
-        System.out.println();
+
     }
 
     public List<Words> getWordsRepository() {
