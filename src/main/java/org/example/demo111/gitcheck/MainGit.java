@@ -5,6 +5,6 @@ public class MainGit {
         System.out.println("Первый коммит");
         System.out.println("создал вестку");
 
-        System.out.println("Добавил поверх без конфликта");
+        System.out.println("Добавил поверх без конфликта 666");
     }
 }
