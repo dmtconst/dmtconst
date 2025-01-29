@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>new person</title>
+</head>
+<body>
+<form th:method="POST" th:action="@{/people}" th:object="${new_person}">
+    <label for="name">Введите имя: </label>
+    <input type="text" th:field="*{name}" id="name"/>
+    <br/>
+    <input type="submit" value="Жмакс!"/>
+</form>
+
+<div>Форма 2</div>
+<form th:method="POST" th:action="@{/people/666}" th:object="${new_person}">
+    <label for="name666">Введите имя: </label>
+    <input type="text" th:field="*{name}" id="name666"/>
+    <br/>
+    <input type="submit" value="Жмакс!"/>
+</form>
+</body>
+</html>
