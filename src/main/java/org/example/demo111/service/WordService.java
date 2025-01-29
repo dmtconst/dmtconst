@@ -16,7 +16,6 @@ public class WordService {
     @Autowired
     public WordService(WordsRepository wordsRepository) {
         this.wordsRepository = wordsRepository;
-
     }
 
     public List<Words> getWordsRepository() {
